@@ -1,6 +1,6 @@
 # Form-Validation-with-Regular-Expressions
 
-This is a simple form built with Bootstrap 5 and used Regular Expressions for form validation.
+This is a simple form built with Bootstrap 5 using Regular Expressions for form validation.
 
 This is part of the #30Days30Projects challenge, and this is project N°13.
 
